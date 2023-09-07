@@ -1,5 +1,5 @@
 # Titulo
-Hack-1 Repositorio Alfa
+Hack-1 Repositorio Delta
 
 # Tipo de usuario
 - [X] Alfa
