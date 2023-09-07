@@ -2,8 +2,8 @@
 Hack-1 Repositorio Delta
 
 # Tipo de usuario
-- [X] Alfa
+- [ ] Alfa
 - [ ] Bravo 
 - [ ] Charlie
-- [ ] Delta
+- [X] Delta
 - [ ] Echo
